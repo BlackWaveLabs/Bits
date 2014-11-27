@@ -41,21 +41,18 @@ Bits is capable of detecting other Bits users in a geolocal area based on pre-ex
 
 *When two or more users are within range:*
 
-Private encrypted communication will be available.
-
-Form joint accounts with with one or more users.
+* Private encrypted communication will be available.
+* Form joint accounts with with one or more users.
 
 *When three or more users are within range:*
 
-Private encrypted group chat will be available.
-
-Users can start a key signing party to create a circle of trust or expand existing webs of trust.
-
-Users can opt to send or receive encrypted one-to-many broadcasts if they are within a circle of trust.
+* Private encrypted group chat will be available.
+* Users can start a key signing party to create a circle of trust or expand existing webs of trust.
+* Users can opt to send or receive encrypted one-to-many broadcasts if they are within a circle of trust.
 
 *When ten or more users are within range:*
 
-Users will have many tools available to facilitate organization of large groups of people:
+* Users will have many tools available to facilitate organization of large groups of people:
 
   * Tools for protestors or other large groups of people to safely and securely organize.
   * Tools to raise funds and manage them transparently.
@@ -72,9 +69,8 @@ The Bits API will allow users to build plugins that leverage the Bits framework 
 
 **Road Map**
 
-Publish project outline
-
-Ready existing codebase for an open source alpha release
+1. Publish project outline
+2. Ready existing codebase for an open source alpha release
 
 **License**
 
