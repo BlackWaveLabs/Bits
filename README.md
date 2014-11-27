@@ -67,13 +67,15 @@ Bits is built on top of mesh networking tools that allow users to participate in
 
 The Bits API will allow users to build plugins that leverage the Bits framework and quorum sensing tools for modular, expanded functionality.
 
-**Road Map**
+Road Map
+--------
 
 1. Publish project outline
 2. Ready existing codebase for an open source alpha release
 3. Open discussion about which open source libraries on projects we currently utilize to acheive our goals and if anyone from the community can offer better options.
 
-**License**
+License
+--------
 
 Bits - Bits Geolocal Cryptocurrency Wallet
 Copyright (C) 2014 Blackwave Labs
